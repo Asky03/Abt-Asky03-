@@ -5,23 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asky03" alt="asky03" /></a> </p>
 
-- 🔭 I’m currently working on **...**
-
-- 🌱 I’m currently learning **Node and react.js - (React native also )**
-
-- 👯 I’m looking to collaborate on **...**
-
-- 🤝 I’m looking for help with **...**
 
 - 👨‍💻 All of my projects are available at [Soon...](Soon...)
 
 - 📝 I regularly write articles on [Soon...](Soon...)
 
-- 💬 Ask me about **...**
 
 - 📫 How to reach me **ashushekhar2442@gmail.com**
 
-- 👻 Fun fact **I think, i think too much...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
